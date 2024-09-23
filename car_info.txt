@@ -1,0 +1,100 @@
+Car ID: 3231313
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: dasd, Name: dadadaad
+Car ID: 313123
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: qed, Name: asd
+Car ID: 13123
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: dsadas, Name: dsadsad
+Car ID: 12313
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: dasda, Name: vavd
+Car ID: 435
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: ffsfs, Name: bdfbfdb
+Car ID: 55633
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: fsdf, Name: hhdhd
+Car ID: 646
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: hd, Name: hdfh
+Car ID: 758568
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: gdg, Name: dhd
+Car ID: 86867
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: gdg, Name: gnfn
+Car ID: 87858
+Chassis ID: Chassis123, Type: TypeA, Length: 100, Width: 50, Height: 30
+Tire ID: Tire456, Diameter: 15
+AGX Model: AGX001, Memory: 16GB, Storage: 256GB
+Camera Model: Cam789, Resolution: 1080p, FPS: 60
+Gyro Model: Gyro987, Manufacturer: ManufacturerX
+Lidar Model: Lidar654, Resolution: 16, Range: 200
+LCD Model: LCD123, Size: 7.5 inches
+Battery Type: Li-ion, Capacity: 5000 kWh
+Student ID: gdg, Name: bdfbd
